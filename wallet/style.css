@@ -1,0 +1,131 @@
+body
+{
+    
+    transition:1000ms ease-in-out  all;
+    
+  
+}
+.anaYaz h1
+{
+    position: absolute;
+    top: 0px;
+    color: #f9f9f9;
+    left: 500px;
+}
+.wallet
+{
+    background-color: black;
+    height: 600px;
+    width: 700px;
+    margin-left: 300px;
+    margin-top: 9px;
+    border-radius: 45px;
+    
+}
+::-webkit-scrollbar
+{
+    background-color: #000000;
+    width: 2px;
+    
+}
+.kart1 button
+{
+    background-color: rgb(19, 19, 19);
+    height: 230px;
+    width: 200px;
+    position: absolute;
+    top: 220px;
+    left: 380px;
+    cursor: pointer;
+    border-radius: 40px;
+    transition: 500ms ease-in-out all;
+}
+.kart1 img
+{
+    position: absolute;
+    top: 300px;
+    left: 450px;
+    cursor: pointer;
+}
+.kart1 p
+{
+    position: absolute;
+    top: 370px;
+    left: 440px;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+
+.kart1 button:hover
+{
+   background-color: #20e9d1;
+}
+
+.kart2 button
+{
+    background-color: rgb(19, 19, 19);
+    height: 230px;
+    width: 200px;
+    position: absolute;
+    top: 220px;
+    left: 720px;
+    cursor: pointer;
+    border-radius: 40px;
+    transition: 500ms ease-in-out all;
+}
+.kart2 img
+{
+    position: absolute;
+    top: 300px;
+    left: 770px;
+    width: 96px;
+    height: 60px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.kart2 p
+{
+    position: absolute;
+    top: 370px;
+    left: 780px;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+
+
+.kart2 button:hover
+{
+   background-color: #00d7be;
+}
+
+.OrtYaz p
+{
+    position: absolute;
+    top: 480px;
+    left: 550px;
+    color: aliceblue;
+    font-weight: bold;
+}
+.Alt
+{
+    position: absolute;
+    top: 550px;
+    left: 520px;
+    color: #00d7be;
+}
+
+::-webkit-scrollbar
+{
+    background-color: #000000;
+    width: 10px;
+    height: 40px;
+}
+::-webkit-scrollbar-thumb
+{
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px;
+    font-size: 10px;
+}
+
